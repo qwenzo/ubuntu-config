@@ -8,7 +8,7 @@ TODO: create a script
 Adwaita (default)
 
 ### Icons
-[Kora] (https://www.gnome-look.org/s/Gnome/p/1256209)
+[Kora](https://www.gnome-look.org/s/Gnome/p/1256209)
 
 ### Shell
 Adwaita (default)
